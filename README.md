@@ -1,19 +1,20 @@
 # R Courseworks
 
-University coursework involving statistical analysis and modelling in R.
+University coursework involving statistical analysis, statistical modelling and data analysis using R.
 
-## Projects
+**Overall mark: 81/100 (81%)**
 
-### Statistical Analysis Coursework
+## Coursework
 
-Statistical analyses of rainfall data and antibiotic effectiveness, using R, statistical modelling and statistical inference.
+The coursework consists of two separate statistical analyses:
 
-The coursework includes:
-- Statistical modelling of rainfall data using Gamma and M(σ, γ) distributions
-- Parameter estimation and assessment of model fit
-- Calculation of rainfall return levels
-- Statistical analysis of antibiotic effectiveness using point estimation and confidence intervals
-- Assessment of uncertainty, sampling bias and potential confounding factors
+### 1. Statistical Modelling and Analysis of Rainfall Data
+
+Analysis of 40 years of rainfall data using probability distributions and statistical modelling. The analysis includes parameter estimation, assessment of model fit and calculation of a 10-year rainfall return level.
+
+### 2. Statistical Analysis of a Study Assessing the Effectiveness of a New Antibiotic
+
+Statistical analysis of antibiotic effectiveness using point estimation and 95% confidence intervals, with consideration of uncertainty, sampling bias and potential confounding factors.
 
 ## Skills Demonstrated
 
