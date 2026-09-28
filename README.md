@@ -4,7 +4,7 @@ University coursework involving statistical analysis, statistical modelling and 
 
 **Overall mark: 81% (High First-Class)**
 
-[View Full Coursework PDF](Statistical_Analysis_Coursework.pdf)
+[View Full Coursework PDF](Statistical_Analysis_Coursework.pdf) (6 pages)
 
 The coursework consists of two **separate** statistical analyses:
 
