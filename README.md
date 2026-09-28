@@ -2,7 +2,7 @@
 
 University coursework involving statistical analysis, statistical modelling and data analysis using R.
 
-**Overall mark: 81% (High First-Class)**
+**Grade: 81% (High First-Class)**
 
 [View Full Coursework PDF](Statistical_Analysis_Coursework.pdf) (6 pages)
 
