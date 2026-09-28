@@ -4,6 +4,8 @@ University coursework involving statistical analysis, statistical modelling and 
 
 **Overall mark: 81% (High First-Class)**
 
+[View Full Coursework PDF](Statistical_Analysis_Coursework.pdf)
+
 The coursework consists of two **separate** statistical analyses:
 
 ### 1. Statistical Modelling and Analysis of Rainfall Data
