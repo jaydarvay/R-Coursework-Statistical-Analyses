@@ -1,4 +1,4 @@
-# R Courseworks
+# 📈 R Courseworks
 
 University coursework involving statistical analysis, statistical modelling and data analysis using R.
 
